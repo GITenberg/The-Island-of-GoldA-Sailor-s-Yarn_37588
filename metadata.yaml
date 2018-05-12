@@ -1,0 +1,49 @@
+_repo: The-Island-of-GoldA-Sailor-s-Yarn_37588
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stewart, Allan
+    birthdate: 1865
+    deathdate: 1951
+    gutenberg_agent_id: '33328'
+    url: http://www.gutenberg.org/2009/agents/33328
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Indigenous peoples -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Oceania -- Juvenile fiction'
+- !lcsh 'Volcanoes -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Island of Gold: A Sailor''s Yarn'
+url: http://www.gutenberg.org/ebooks/37588
